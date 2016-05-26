@@ -1,0 +1,19 @@
+{
+    "date": "2012-1-1",
+    "releases": [
+        {
+            "builds": [
+                {
+                    "buildnum": 1,
+                    "issues": [
+                        "win64 l10n hg timeout, retriggered",
+                        "tooltool borked, bug 12345"
+                    ]
+                }
+            ],
+            "date": "16-05-26",
+            "product": "firefox",
+            "version": "18.0b3"
+        }
+    ]
+}
